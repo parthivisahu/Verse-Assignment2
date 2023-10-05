@@ -232,7 +232,7 @@ img{
     } 
 
 }
-@media screen and (max-width: 901px) {
+@media screen and (min-width: 701px) {
     .content{
         max-height: 100%;
     }
